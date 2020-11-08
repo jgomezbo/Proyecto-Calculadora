@@ -1,4 +1,4 @@
-Nombre proyecto: Cálculadora
+Taller 1: Cálculadora en Tkinter
 
 Estudiante:
 Johan Danilo Gómez Bocanegra
