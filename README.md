@@ -23,7 +23,7 @@ Cambiar el tema de la cálculadora (hay tres temas)
 
   ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Fondo%20azul.png)
   ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Fondo%20blanco.png)
-  ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Fondo%20gris.png)
+  ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Fondo%20gray.png)
   
 Poner o usar el último resultado obtenido con el boton "Resultado"
 
