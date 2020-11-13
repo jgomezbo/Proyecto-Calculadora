@@ -18,6 +18,10 @@ Widgets adicionales:
   1. Checkbutton: Habilitar opción para poner en algún entry el último resultado obtenido.
   2. Radiobutton: Para seleccionar el tema o color de fondo.
   3. Messagebox: Para informar que la división entre cero no es posible.
+
+Cambiar el tema de la cálculadora
+![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Fondo%20azul.png)
+
   
 
 
