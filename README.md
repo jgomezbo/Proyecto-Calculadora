@@ -19,15 +19,17 @@ Widgets adicionales:
   2. Radiobutton: Para seleccionar el tema o color de fondo.
   3. Messagebox: Para informar que la división entre cero no es posible.
 
-Cambiar el tema de la cálculadora (hay tres temas)
+Opcioner para realizar con el aplicativo:
 
-  ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Fondo%20azul.png)
-  ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Fondo%20blanco.png)
-  ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Fondo%20gray.png)
+  - Cambiar el tema de la cálculadora (hay tres temas)
+
+    ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Fondo%20azul.png)
+    ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Fondo%20blanco.png)
+    ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Fondo%20gray.png)
   
-Poner o usar el último resultado obtenido con el boton "Resultado"
+  - Poner o usar el último resultado obtenido con el boton "Resultado"
 
-  ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Ultimo%20resultado.png)
+    ![alt tag](https://github.com/jgomezbo/Proyecto-Calculadora/blob/main/imagenes/Ultimo%20resultado.png)
 
   
 
