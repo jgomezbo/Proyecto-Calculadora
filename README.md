@@ -19,7 +19,7 @@ Widgets adicionales:
   2. Radiobutton: Para seleccionar el tema o color de fondo.
   3. Messagebox: Para informar que la división entre cero no es posible.
 
-Opcioner para realizar con el aplicativo:
+Opciones de la aplicación:
 
   - Cambiar el tema de la cálculadora (hay tres temas)
 
